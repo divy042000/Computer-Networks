@@ -1,0 +1,64 @@
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mjpeg error: cannot peek
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mjpeg error: cannot peek
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mjpeg error: cannot peek
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+main error: buffer deadlock prevented
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mjpeg error: cannot peek
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+mjpeg error: cannot peek
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+main error: buffer deadlock prevented
+main error: buffer deadlock prevented
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+main error: buffer deadlock prevented
+main error: buffer deadlock prevented
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 5, expected 1) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 5, expected 1) for PID 4096
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 7, expected 6) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 7, expected 6) for PID 4096
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+main error: buffer deadlock prevented
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+-- logger module stopped --
+﻿-- logger module started --
+main: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+main error: buffer deadlock prevented
+main error: buffer deadlock prevented
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 2, expected 1) for PID 0
+ts error: libdvbpsi error (PSI decoder): TS discontinuity (received 2, expected 1) for PID 4096
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+gl: Initialized libplacebo v4.192.1 (API v192)
+-- logger module stopped --

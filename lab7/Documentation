@@ -1,0 +1,14 @@
+
+Client File : audiotrans.c
+Server File : audiorecev.c
+
+compile the client file and server file 
+
+The User need to provide the GET statement first.
+The client code is asking the server for corresponding file required
+
+client running code : ./audiotrans 0.0.0.0 output.mp4 streamable_output.mp4
+server running code : ./audiorecev
+
+sample.mp4 is the file
+
